@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "name": "Strawberry",
+      "description": "Strawberries are bright red, juicy, and sweet. They're an excellent source of vitamin C and manganese and also contain decent amounts of folate (vitamin B9) and potassium. Strawberries are very rich in antioxidants and plant compounds, which may have benefits for heart health and blood sugar control ( 1 , 2 ).",
+      "price": "2000",
+      "qty": "100",
+      "type": "Fruits",
+      "imagename": "../../../webservers/nginx-1.21.6/html/vcq5rvt6.jpg",
+      "id": 1
+    },
+    {
+      "name": "apple",
+      "description": "Apples are an incredibly nutritious fruit that offers multiple health benefits. They're rich in fiber and antioxidants. Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer. Apples may also promote weight loss and improve gut and brain health.",
+      "price": "1000",
+      "qty": "150",
+      "type": "Fruits",
+      "imagename": "../../../webservers/nginx-1.21.6/html/di4djkug.jpg",
+      "id": 2
+    },
+    {
+      "name": "Litchi",
+      "description": "Vitamins. Lychee fruit is a good source of vitamin C. ...\r\nLiver health. Your liver plays several important functions in your body. ...\r\nAnti-cancer activity. Lychee extract has possible anti-cancer properties. ...\r\nOligonol. Lychee fruit contains a polyphenol called oligonol.",
+      "price": "150",
+      "qty": "20",
+      "type": "Fruits",
+      "imagename": "../../../webservers/nginx-1.21.6/html/m02d3l0k.jpg",
+      "id": 3
+    }
+  ]
+}
